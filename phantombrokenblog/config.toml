@@ -1,0 +1,11 @@
+baseURL = 'http://peterparkercode.github.io/'
+languageCode = 'en-us'
+title = 'PhantomBroken'
+theme = 'hugo-PaperMod'
+
+[taxanomies]
+tag = "tags"
+catergory = "catgories"
+
+[params]
+themeVariant = "green"
