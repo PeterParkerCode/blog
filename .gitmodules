@@ -1,0 +1,8 @@
+[submodule "phantombrokenblog/peterparkercode.github.io"]
+	path = phantombrokenblog/peterparkercode.github.io
+	url = https://github.com/PeterParkerCode/peterparkercode.github.io.git
+	branch = main
+[submodule "phantombrokenblog/public"]
+	path = phantombrokenblog/public
+	url = https://github.com/PeterParkerCode/peterparkercode.github.io.git
+	branch = main
